@@ -1,0 +1,31 @@
+../../Drivers/CMSIS/Include/core_cm4.h:2064:26:ITM_SendChar	16	static,ignoring_inline_asm
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/STM32CubeIDE/Drivers/rom_drivers/Inc/rom_communication.h:21:8:ROM_checksum	24	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/STM32CubeIDE/Drivers/rom_drivers/Inc/rom_communication.h:63:1:encodeBuffer	56	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/STM32CubeIDE/Drivers/rom_drivers/Inc/rom_communication.h:121:1:decodeBuffer	48	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/STM32CubeIDE/Drivers/rom_drivers/Inc/rom_communication.h:269:6:led_1_on	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/STM32CubeIDE/Drivers/rom_drivers/Inc/rom_communication.h:270:6:led_1_off	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/STM32CubeIDE/Drivers/rom_drivers/Inc/rom_communication.h:272:6:led_2_on	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/STM32CubeIDE/Drivers/rom_drivers/Inc/rom_communication.h:273:6:led_2_off	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/STM32CubeIDE/Drivers/rom_drivers/Inc/rom_communication.h:275:6:led_3_on	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/STM32CubeIDE/Drivers/rom_drivers/Inc/rom_communication.h:276:6:led_3_off	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/STM32CubeIDE/Drivers/rom_drivers/Inc/rom_communication.h:278:6:led_4_on	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/STM32CubeIDE/Drivers/rom_drivers/Inc/rom_communication.h:279:6:led_4_off	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/STM32CubeIDE/Drivers/rom_drivers/Inc/rom_communication.h:281:6:estop_on	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/STM32CubeIDE/Drivers/rom_drivers/Inc/rom_communication.h:282:6:estop_off	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/Core/Src/main.c:86:6:_write	32	static
+C:\ST\STM32CubeIDE_1.15.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256\tools\bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/include/stdio.h:220:5:fputc	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/Core/Src/main.c:103:6:estop	4	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/Core/Src/main.c:104:6:led	4	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/Core/Src/main.c:105:6:volt_ampere	4	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/Core/Src/main.c:106:6:structure_update	4	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/Core/Src/main.c:144:6:ROM_variables_init	4	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/Core/Src/main.c:171:7:HAL_CAN_RxFifo0MsgPendingCallback	24	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/Core/Src/main.c:230:7:HAL_CAN_RxFifo1MsgPendingCallback	24	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/Core/Src/main.c:287:7:USB_RECEIVE_CALLBACK	96	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/Core/Src/main.c:336:7:__ROM_USB_TRANSMIT	32	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/Core/Src/main.c:416:5:main	8	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/Core/Src/main.c:518:6:SystemClock_Config	88	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/Core/Src/main.c:560:6:ROM_UART3_Error_Handler	4	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/Core/Src/main.c:569:6:CAN_Error_Handler	8	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/Core/Src/main.c:587:6:TIM1_BRK_TIM9_IRQHandler	8	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/Firmware V-0.0/Core/Src/main.c:645:6:Error_Handler	8	static,ignoring_inline_asm

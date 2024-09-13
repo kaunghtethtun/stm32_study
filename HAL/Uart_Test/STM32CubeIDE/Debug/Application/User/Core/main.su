@@ -1,0 +1,20 @@
+../../Drivers/CMSIS/Include/core_cm4.h:2064:26:ITM_SendChar	16	static,ignoring_inline_asm
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Drivers/Own/Inc/rom_communication.h:22:8:ROM_checksum	24	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Drivers/Own/Inc/rom_communication.h:64:1:encodeBuffer	56	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Drivers/Own/Inc/rom_communication.h:122:1:decodeBuffer	48	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Drivers/Own/Inc/rom_communication.h:270:6:led_1_on	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Drivers/Own/Inc/rom_communication.h:271:6:led_1_off	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Drivers/Own/Inc/rom_communication.h:273:6:led_2_on	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Drivers/Own/Inc/rom_communication.h:274:6:led_2_off	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Drivers/Own/Inc/rom_communication.h:276:6:led_3_on	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Drivers/Own/Inc/rom_communication.h:277:6:led_3_off	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Drivers/Own/Inc/rom_communication.h:279:6:led_4_on	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Drivers/Own/Inc/rom_communication.h:280:6:led_4_off	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Drivers/Own/Inc/rom_communication.h:282:6:estop_on	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Drivers/Own/Inc/rom_communication.h:283:6:estop_off	16	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Core/Src/main.c:65:6:HAL_UART_RxCpltCallback	88	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Core/Src/main.c:107:5:main	8	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Core/Src/main.c:159:6:SystemClock_Config	88	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Core/Src/main.c:203:5:_write	32	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Core/Src/main.c:216:6:TIM1_BRK_TIM9_IRQHandler	32	static
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_Test/Core/Src/main.c:257:6:Error_Handler	4	static,ignoring_inline_asm

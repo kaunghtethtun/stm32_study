@@ -1,0 +1,7 @@
+../../Drivers/CMSIS/Include/core_cm4.h:2064:26:ITM_SendChar	4
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_communicate/Core/Src/main.c:48:6:HAL_UART_RxCpltCallback	1
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_communicate/Core/Src/main.c:85:5:main	1
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_communicate/Core/Src/main.c:139:6:SystemClock_Config	3
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_communicate/Core/Src/main.c:182:5:_write	2
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_communicate/Core/Src/main.c:195:6:TIM1_BRK_TIM9_IRQHandler	2
+C:/Users/Kaung Htet Htun/OneDrive/Desktop/STM32F4_study/HAL/Uart_communicate/Core/Src/main.c:228:6:Error_Handler	1

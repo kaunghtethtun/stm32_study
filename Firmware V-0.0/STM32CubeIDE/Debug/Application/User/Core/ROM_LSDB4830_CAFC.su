@@ -1,0 +1,17 @@
+../Application/User/Core/ROM_LSDB4830_CAFC.c:10:6:___ROM_LSDB_PREPARE	16	static
+../Application/User/Core/ROM_LSDB4830_CAFC.c:23:6:setOperatingMode	16	static
+../Application/User/Core/ROM_LSDB4830_CAFC.c:38:6:enableMotor	16	static
+../Application/User/Core/ROM_LSDB4830_CAFC.c:57:6:getDriverStatus	16	static
+../Application/User/Core/ROM_LSDB4830_CAFC.c:72:6:enableEmergencyMode	16	static
+../Application/User/Core/ROM_LSDB4830_CAFC.c:87:6:accel	16	static
+../Application/User/Core/ROM_LSDB4830_CAFC.c:102:6:decel	16	static
+../Application/User/Core/ROM_LSDB4830_CAFC.c:118:6:decel_in_emergency_stop	16	static
+../Application/User/Core/ROM_LSDB4830_CAFC.c:134:6:setTargetVelocityRPM	16	static
+../Application/User/Core/ROM_LSDB4830_CAFC.c:150:6:setTargetVelocityDEC	24	static
+../Application/User/Core/ROM_LSDB4830_CAFC.c:167:6:max_following_error	16	static
+../Application/User/Core/ROM_LSDB4830_CAFC.c:182:6:position_loop_speed_feedforward	16	static
+../Application/User/Core/ROM_LSDB4830_CAFC.c:197:6:set_position_propotion_gain	16	static
+../Application/User/Core/ROM_LSDB4830_CAFC.c:212:6:set_speed_propotion_gain	16	static
+../Application/User/Core/ROM_LSDB4830_CAFC.c:227:6:set_speed_integration_gain	16	static
+../Application/User/Core/ROM_LSDB4830_CAFC.c:246:6:enableTenMilliSecondLoop	16	static
+../Application/User/Core/ROM_LSDB4830_CAFC.c:263:6:setMaxRPM	16	static
